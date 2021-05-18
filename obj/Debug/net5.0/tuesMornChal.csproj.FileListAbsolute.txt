@@ -1,0 +1,16 @@
+C:\source\codeworks\week10\tuesMornChal\bin\Debug\net5.0\tuesMornChal.exe
+C:\source\codeworks\week10\tuesMornChal\bin\Debug\net5.0\tuesMornChal.deps.json
+C:\source\codeworks\week10\tuesMornChal\bin\Debug\net5.0\tuesMornChal.runtimeconfig.json
+C:\source\codeworks\week10\tuesMornChal\bin\Debug\net5.0\tuesMornChal.runtimeconfig.dev.json
+C:\source\codeworks\week10\tuesMornChal\bin\Debug\net5.0\tuesMornChal.dll
+C:\source\codeworks\week10\tuesMornChal\bin\Debug\net5.0\ref\tuesMornChal.dll
+C:\source\codeworks\week10\tuesMornChal\bin\Debug\net5.0\tuesMornChal.pdb
+C:\source\codeworks\week10\tuesMornChal\obj\Debug\net5.0\tuesMornChal.csprojAssemblyReference.cache
+C:\source\codeworks\week10\tuesMornChal\obj\Debug\net5.0\tuesMornChal.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\week10\tuesMornChal\obj\Debug\net5.0\tuesMornChal.AssemblyInfoInputs.cache
+C:\source\codeworks\week10\tuesMornChal\obj\Debug\net5.0\tuesMornChal.AssemblyInfo.cs
+C:\source\codeworks\week10\tuesMornChal\obj\Debug\net5.0\tuesMornChal.csproj.CoreCompileInputs.cache
+C:\source\codeworks\week10\tuesMornChal\obj\Debug\net5.0\tuesMornChal.dll
+C:\source\codeworks\week10\tuesMornChal\obj\Debug\net5.0\ref\tuesMornChal.dll
+C:\source\codeworks\week10\tuesMornChal\obj\Debug\net5.0\tuesMornChal.pdb
+C:\source\codeworks\week10\tuesMornChal\obj\Debug\net5.0\tuesMornChal.genruntimeconfig.cache
